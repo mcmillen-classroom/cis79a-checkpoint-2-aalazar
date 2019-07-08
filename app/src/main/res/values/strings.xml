@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">QuizApp</string>
+    <string name="question_text">Placeholder for first question...</string>
+
+    <string name="true_button">True</string>
+    <string name="false_button">False</string>
+    <string name="question_1"> In Designated Survivor, is Tom Kirkman the President </string>
+    <string name="question_2">Is Designated Survivor available on iTunes  </string>
+    <string name="question_3">Is Emily Rhodes the whistle blower? </string>
+    <string name="question_4"> Does Adan Canto play the President? </string>
+    <string name="question_5">Did Netflix rescue Designated Survivor from cancellation</string>
+</resources>
